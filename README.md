@@ -6,7 +6,7 @@
 * :school: Mestrando em Filosofia - UFC
 * 🏫: Graduando em Analise e Desevolvimento de Sistema - IFPB-Cajazeiras
 * :school: Tecnico em Informatica - IFPB-Sousa
-<div align="center">
+<div align="">
   <a href="https://github.com/IagoGOOl">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IagoGOOL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoGOOL&layout=compact&langs_count=7&theme=dark"/>
