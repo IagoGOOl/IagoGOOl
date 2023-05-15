@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/iagogool)](https://github.com/iagogool)
 ### Sobre mim
 * :school: Licenciado em Filosofia - FAFIC
-* * :school: Tecnico em Informatica - IFPB-Sousa
+* :school: Tecnico em Informatica - IFPB-Sousa
 * 🏫: Graduando em Analise e Desevolvimento de Sistema - IFPB-Cajazeiras
 <div align="center">
   <a href="https://github.com/IagoGOOl">
