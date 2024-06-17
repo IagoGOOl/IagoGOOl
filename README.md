@@ -22,6 +22,7 @@
     <img align="center" alt="IAGO-GITHUB" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" />+
     <img align="center" alt="IAGO-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> <img align="center" alt="IAGO-GITHUB" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img align="center" alt="IAGO-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img align="center" alt="IAGO-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
     <img align="center" alt="IAGO-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img align="right" alt="Iago-valorant" height="150" style="border-radius:50px;" src="https://vgraphs.com/images/players/sprays/high-quality/valorant-spray-whos-next.png">
     
