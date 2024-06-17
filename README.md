@@ -19,7 +19,8 @@
     <img align="center" alt="IAGO-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
     <img align="center" alt="IAGO-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="IAGO-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-    <img lign="center" alt="IAGO-GITHUB" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" />
+    <img align="center" alt="IAGO-GITHUB" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" />
+    <img align="center" alt="IAGO-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img align="right" alt="Iago-valorant" height="150" style="border-radius:50px;" src="https://vgraphs.com/images/players/sprays/high-quality/valorant-spray-whos-next.png">
     
   </div>
