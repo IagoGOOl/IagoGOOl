@@ -12,14 +12,13 @@
 </div>
   <hr>
   <div style="display: inline_block"><br>
-
-    <img align="center" alt="IAGO-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
     <img align="center" alt="IAGO-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="IAGO-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="IAGO-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="IAGO-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
     <img align="center" alt="IAGO-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
     <img align="center" alt="IAGO-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+     <img align="center" alt="IAGO-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
     <img lign="center" alt="IAGO-GITHUB" height="30" width="40" <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
     <img align="right" alt="Iago-valorant" height="150" style="border-radius:50px;" src="https://vgraphs.com/images/players/sprays/high-quality/valorant-spray-whos-next.png">
     
